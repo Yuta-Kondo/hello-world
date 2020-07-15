@@ -3,4 +3,4 @@ The first GitHub repository
 
 Hi Humans!
 
-Yuta here, I like jacascript.
+Yuta here, I like javascript.
